@@ -1,2 +1,2 @@
-# email-template-1
+# email-template
 Meles
